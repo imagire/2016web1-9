@@ -41,4 +41,5 @@ body{
 .border-radius{
     background-color: gray;
     border-radius: 50px;
+    padding: 20px;
 }
