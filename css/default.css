@@ -109,7 +109,7 @@ body{
 }
 .skew-gradient{
     background-color: white;
-    background: linear-gradient(left 135deg,
+    background: linear-gradient(135deg,
         orangered   0%,
         white      50%,
         orange    100%);
