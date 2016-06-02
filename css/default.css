@@ -23,7 +23,7 @@ body{
              text-shadow: -1px -1px  0px white, 
                            1px  1px  0px darkgray;}
 .embos      {color: silver;
-             text-shadow:  2px  2px  3px darkgray, 
+             text-shadow: -1px -1px  0px darkgray, 
                            1px  1px  0px white;}
 .stroke     {color: white;
              text-shadow:  1px  1px  0px gray, 
