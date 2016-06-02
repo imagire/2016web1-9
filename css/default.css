@@ -144,10 +144,10 @@ body{
     background-color: mediumspringgreen;
 }
 .translateX{
-    transform: translateX(30px);
+    transform: translateX(10px);
 }
 .translateY{
-    transform: translateY(30px);
+    transform: translateY(10px);
 }
 .translate{
     transform: translate(-10px, -10px);
