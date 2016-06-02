@@ -39,26 +39,26 @@ body{
                            0px  0px 13px deeppink;}
 /* 角丸 */
 .border-radius-one{
-    background-color: floralwhite;
     border-radius: 50px;
-    padding: 10px;
-    margin: 5px;
-}
-.border-radius-three{
     background-color: floralwhite;
-    border-radius: 5px 20px 40px;
     padding: 10px;
     margin: 5px;
 }
 .border-radius-two{
-    background-color: floralwhite;
     border-radius: 5px 50px;
+    background-color: floralwhite;
+    padding: 10px;
+    margin: 5px;
+}
+.border-radius-three{
+    border-radius: 5px 20px 40px;
+    background-color: floralwhite;
     padding: 10px;
     margin: 5px;
 }
 .border-radius-four{
-    background-color: floralwhite;
     border-radius: 5px 10px 20px 40px;
+    background-color: floralwhite;
     padding: 10px;
     margin: 5px;
 }
