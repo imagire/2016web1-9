@@ -120,10 +120,10 @@ body{
     font-weight: bold;
     background-color: red;
     background: linear-gradient(0deg,
-        #ffced7   100%,
-        #f74657    49%,
-        #f10013    51%,
-        #fe2951    100%);
+        #fe2951     0%,
+        #f10013    49%,
+        #f74657    51%,
+        #ffced7   100%);
     border-radius: 10px;
 }
 
