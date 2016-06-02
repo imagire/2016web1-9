@@ -159,6 +159,7 @@ body{
     transform: scaleY(0.6);
 }
 .rotate{
+    transform: rotate(30deg);
 }
 .skew{
 }
