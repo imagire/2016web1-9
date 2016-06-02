@@ -138,7 +138,7 @@ body{
 .transform{
     font-size: 10px;/* 文字を大きくする */
     width: 100px;
-    padding: 5px;
+    padding: 50px;
     margin: 20px;
 }
 .translateX{
