@@ -117,10 +117,10 @@ body{
 
 .button{
     display: block;
-    padding 10px;
+    padding: 10px;
     width: 200px;
     border-radius: 5px;
-    boc-shadow: 1px 1px 3px dimgray;
+    box-shadow: 1px 1px 3px dimgray;
     color: white;
     font-weight: bold;
     text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
