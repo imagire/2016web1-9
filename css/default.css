@@ -10,7 +10,7 @@
 body{
     background-image: url(../img/good.png), url(../img/bg.jpg);
     background-repeat: no-repeat, no-repeat;
-    background-size: 5% 5%, cover;
+    background-size: 100px 100px, contain;
     background-color: lightgrey;
     margin: 5px;
 
