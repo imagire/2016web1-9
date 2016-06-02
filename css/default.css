@@ -161,11 +161,14 @@ body{
 .rotate{
     transform: rotate(30deg);
 }
-.skew{
-}
 .skewX{
+    transform: skewX(30deg);
 }
 .skewY{
+    transform: skewY(45deg);
+}
+.skew{
+    transform: skew(30deg, 45deg);
 }
 .transform-origin{
 }
