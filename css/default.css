@@ -176,14 +176,14 @@ body{
 }
 
 /* transition */
-#transition{
-    font-size: 30px;/* 文字を大きくする */
+.transition a{
+    backgrount-color: mediumseagreen;
+    color: white;
+    font-size: 30px;
 }
-.duration{
-    background-color: white;
-    background: linear-gradient(0deg,
-        orangered   0%,
-        white      50%);
+.transition a:hover{
+    backgrount-color: gold;
+    color: black;
 }
 .property{
     background-color: white;
