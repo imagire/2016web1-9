@@ -176,13 +176,13 @@ body{
 }
 
 /* transition */
-.transition a{
+p.transition a{
     backgrount-color: mediumseagreen;
     color: white;
     font-size: 30px;
     transition: 1s;
 }
-.transition a:hover{
+p.transition a:hover{
     backgrount-color: gold;
     color: black;
 }
