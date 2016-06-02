@@ -38,27 +38,24 @@ body{
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink;}
 /* 角丸 */
-#border-radius{
-    margin: 10px 0px;/* 上下に空間を付ける */
-}
 .border-radius-one{
     background-color: floralwhite;
     border-radius: 50px;
-    padding: 10px;
+    margin: 10px;
 }
 .border-radius-three{
     background-color: floralwhite;
     border-radius: 5px 20px 40px;
-    padding: 10px;
+    margin: 10px;
 }
 .border-radius-two{
     background-color: floralwhite;
     border-radius: 5px 50px;
-    padding: 10px;
+    margin: 10px;
 }
 .border-radius-four{
     background-color: floralwhite;
     border-radius: 5px 10px 20px 40px;
-    padding: 10px;
+    margin: 10px;
 }
 
