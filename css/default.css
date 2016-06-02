@@ -94,13 +94,13 @@ body{
 #gradient{
     font-size: 30px;/* 文字を大きくする */
 }
-.2gradient{
+.two-gradient{
     background-color: white;
     background: linear-gradient(top 0deg,
         orangered   0%,
         white      50%);
 }
-.3gradient{
+.three-gradient{
     background-color: white;
     background: linear-gradient(left 0deg,
         orangered   0%,
