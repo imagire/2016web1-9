@@ -150,7 +150,7 @@ body{
     transform: translateY(10px);
 }
 .translate{
-    transform: translate(-5px, -20px);
+    transform: translate(-20px, -5px);
 }
 .scale{
 }
