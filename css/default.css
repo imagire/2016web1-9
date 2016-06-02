@@ -15,6 +15,10 @@ body{
     margin: 5px;
 }
 
+h1{
+    margin: 1000px;
+}
+
 /* text-shadow */
 #text-shadow{
     padding: 0 40px;/* 左右に空間を付ける */
