@@ -85,6 +85,5 @@ body{
     border-color: black;
 }
 .content-box {box-sizing:content-box;}
-.padding-box {box-sizing:padding-box;}
 .border-box  {box-sizing:border-box;}
 
