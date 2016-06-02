@@ -96,20 +96,20 @@ body{
 }
 .2gradient{
     background-color: white;
-    background: linear-gradient(to bottom,
+    background: linear-gradient(top 0deg,
         orangered   0%,
         white      50%);
 }
 .3gradient{
     background-color: white;
-    background: linear-gradient(to right,
+    background: linear-gradient(left 0deg,
         orangered   0%,
         white      50%,
         orange    100%);
 }
 .skew-gradient{
     background-color: white;
-    background: linear-gradient(135deg,
+    background: linear-gradient(left 135deg,
         orangered   0%,
         white      50%,
         orange    100%);
