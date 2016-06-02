@@ -116,15 +116,20 @@ body{
 }
 
 .button{
+    display: block;
+    padding 10px;
+    width: 200px;
+    border-radius: 5px;
+    boc-shadow: 1px 1px 3px dimgray;
     color: white;
     font-weight: bold;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
     background-color: red;
     background: linear-gradient(0deg,
         #fe2951     0%,
         #f10013    49%,
         #f74657    51%,
         #ffced7   100%);
-    border-radius: 10px;
 }
 
 
