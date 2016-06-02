@@ -126,8 +126,12 @@ body{
     color: white;
     font-weight: bold;
     text-shadow: 1px 1px 0 rgba(0,0,0,0.4);
-    background-color: red;
-    background: linear-gradient(0deg,#BFE5F2, #63B3D2 50%,#0081B4 50%,#00679A);
+    background-color: blue;
+    background: linear-gradient(0deg,
+        #00679A,
+        #0081B4 50%,
+        #63B3D2 50%,
+        #BFE5F2 );
 }
 
 
