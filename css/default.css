@@ -134,4 +134,102 @@ body{
         #BFE5F2 );
 }
 
+/* transform */
+.transform{
+    font-size: 30px;/* 文字を大きくする */
+    padding: 5px;
+    margin:20px;
+}
+.translateX{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.translateY{
+    background-color: white;
+    background: linear-gradient(90deg,
+        orangered   0%,
+        white      50%,
+        orange    100%);
+}
+.translate{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.scale{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.scaleY{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.rotate{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.skew{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.skewX{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.skewY{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.transform-origin{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+
+/* transition */
+#transition{
+    font-size: 30px;/* 文字を大きくする */
+}
+.duration{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.property{
+    background-color: white;
+    background: linear-gradient(90deg,
+        orangered   0%,
+        white      50%,
+        orange    100%);
+}
+.delay{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+.timing{
+    background-color: white;
+    background: linear-gradient(0deg,
+        orangered   0%,
+        white      50%);
+}
+
 
