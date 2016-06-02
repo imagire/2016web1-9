@@ -64,7 +64,7 @@ body{
 }
 /* box-shadow */
 #box-shadow{
-    padding: ６0px;/* 周辺を左右に空間を付ける */
+    padding: 60px;/* 周辺を左右に空間を付ける */
     font-size: 30px;/* 文字を大きくする */
 }
 .box-drop_shadow        {box-shadow:  2px  2px  5px gray;}
