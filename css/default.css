@@ -177,13 +177,13 @@ body{
 
 /* transition */
 p.transition a{
-    backgrount-color: mediumseagreen;
+    background-color: mediumseagreen;
     color: white;
     font-size: 30px;
     transition: 1s;
 }
 p.transition a:hover{
-    backgrount-color: gold;
+    background-color: gold;
     color: black;
 }
 .property{
