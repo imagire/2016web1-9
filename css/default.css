@@ -90,3 +90,29 @@ body{
 .content-box {box-sizing:content-box;}
 .border-box  {box-sizing:border-box;}
 
+/* gradient */
+#gradient{
+    font-size: 30px;/* 文字を大きくする */
+}
+.2gradient{
+    background-color: white;
+    background: linear-gradient(to bottom,
+        orangered   0%,
+        white      50%);
+}
+.3gradient{
+    background-color: white;
+    background: linear-gradient(to right,
+        orangered   0%,
+        white      50%,
+        orange    100%);
+}
+.skew-gradient{
+    background-color: white;
+    background: linear-gradient(135deg,
+        orangered   0%,
+        white      50%,
+        orange    100%);
+}
+
+
