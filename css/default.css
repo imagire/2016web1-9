@@ -176,7 +176,7 @@ body{
 }
 
 /* transition */
-p.transition a{
+p.transition{
     margin: 10px;
 }
 p.transition a{
