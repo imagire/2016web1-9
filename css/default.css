@@ -73,6 +73,6 @@ body{
 .box-inset_grow         {box-shadow:  0px  0px 15px silver inset; margin:20px;}
 .box-spread_shadow      {box-shadow:  0px  0px  0px 3px black; margin:20px;}
 .box-multi_shadow       {box-shadow:  0px  0px  0px 1px black inset,
-                                      0px  0px  0px 2px black inset,
+                                      0px  0px  0px 2px white inset,
                                       2px  2px 10px 0px black; margin:20px;}
 
