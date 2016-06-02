@@ -12,7 +12,7 @@ body{
 }
 
 /* text-shadow */
-ul.text-shadow{
+ul#text-shadow{
     padding: 5px;
     font-size: 12px;    
 }
