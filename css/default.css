@@ -137,7 +137,7 @@ body{
 /* transform */
 .transform{
     font-size: 10px;/* 文字を大きくする */
-    width: 100px;
+    width: 10px;
     padding: 50px;
     margin: 20px;
 }
