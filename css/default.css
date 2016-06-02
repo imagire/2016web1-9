@@ -115,4 +115,16 @@ body{
         orange    100%);
 }
 
+.button{
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    background: linear-gradient(135deg,
+        #ffced7   100%,
+        #f74657    49%,
+        #f10013    51%,
+        #fe2951    100%);
+    border-radius: 50px;
+}
+
 
