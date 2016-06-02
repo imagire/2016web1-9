@@ -181,10 +181,12 @@ p.transition a{
     color: white;
     font-size: 30px;
     text-decoration: none;
+    padding: 5px;
     transition: 1s;
 }
 p.transition a:hover{
     background-color: gold;
     text-decoration: none;
+    padding: 5px;
     color: black;
 }
