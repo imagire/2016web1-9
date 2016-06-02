@@ -64,19 +64,19 @@ body{
 }
 /* box-shadow */
 #box-shadow{
-    margin: 60px;/* 周辺を左右に空間を付ける */
+    padding: 30px;/* 周辺を左右に空間を付ける */
     font-size: 30px;/* 文字を大きくする */
 }
-.box-drop_shadow        {box-shadow:  2px  2px  5px gray;}
+.box-drop_shadow        {box-shadow:  2px  2px  5px gray; margin:20px;}
 .box-grow               {color: white;
-                         box-shadow:  0px  0px 10px gray;}
-.box-inset_drop_shadow  {box-shadow:  2px  2px  5px gray inset;}
-.box-inset_grow         {box-shadow:  0px  0px 15px silver inset;}
-.box-spread_shadow      {box-shadow:  0px  0px 0px 3px black;}
+                         box-shadow:  0px  0px 10px gray; margin:20px;}
+.box-inset_drop_shadow  {box-shadow:  2px  2px  5px gray inset; margin:20px;}
+.box-inset_grow         {box-shadow:  0px  0px 15px silver inset; margin:20px;}
+.box-spread_shadow      {box-shadow:  0px  0px 0px 3px black; margin:20px;}
 .box-multi_shadow{color: white;
              box-shadow:  0px  0px  5px white,
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink,
-                           0px  0px 13px deeppink;}
+                           0px  0px 13px deeppink; margin:20px;}
 
