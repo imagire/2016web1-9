@@ -171,6 +171,8 @@ body{
     transform: skew(30deg, 45deg);
 }
 .transform-origin{
+    transform-origin: 0% 0%;
+    transform: rotate(30deg);
 }
 
 /* transition */
