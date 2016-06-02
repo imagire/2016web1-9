@@ -137,9 +137,9 @@ body{
 /* transform */
 .transform{
     font-size: 10px;/* 文字を大きくする */
-    width: 10px;
+    width: 100px;
     text-align: center;
-    padding: 50px;
+    padding: 0px 50px;
     margin: 20px;
 }
 .translateX{
