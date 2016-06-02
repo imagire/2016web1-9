@@ -13,8 +13,8 @@ body{
 
 /* text-shadow */
 #text-shadow{
-    padding: 40px 0;
-    font-size: 30px;    
+    padding: 0 40px;/* 左右に空間を付ける */
+    font-size: 30px;/* 文字を大きくする */
 }
 .drop_shadow{text-shadow:  2px  2px  3px gray;}
 .grow       {color: white;
