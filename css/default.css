@@ -38,6 +38,9 @@ body{
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink;}
 /* 角丸 */
+#border-radius{
+    padding: 10px 0px;/* 上下に空間を付ける */
+}
 .border-radius-one{
     background-color: floralwhite;
     border-radius: 50px;
